@@ -1,0 +1,81 @@
+{
+    "items": [
+        {
+            "name": "AWS Managed Lambda Runtime",
+            "description": "",
+            "resources": [
+                {
+                    "name": "Lambda runtimes",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html"
+                }
+                ,
+                {
+                    "name": "Runtime support policy",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html"
+                }
+            ]
+        },
+        {
+            "name": "AWS Managed Lambda Runtime + Lambda layer(s)",
+            "description": "You can package your code and dependencies as a container image using tools such as the Docker cli",
+            "resources": [
+                {
+                    "name": "Lambda layers provide a convenient way to package libraries and other dependencies that you can use with your Lambda functions. Using layers reduces the size of uploaded deployment archives and makes it faster to deploy your code.",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html"
+                }
+            ]
+        },
+        {
+            "name": "Using container images with Lambda",
+            "description": "You can package your code and dependencies as a container image using tools such as the Docker cli",
+            "resources": [
+                {
+                    "name": "Runtime support for Lambda container images",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/runtimes-images.html"
+                }
+            ]
+        },
+        {
+            "name": "Lambda Extension",
+            "description": "you can use the Lambda Extensions API to integrate deeply into the Lambda execution environment",
+            "resources": [
+                {
+                    "name": "Lambda Extensions API",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html"
+                }
+            ]
+        },
+        {
+            "name": "Custom AWS Lambda runtime",
+            "description": "You can implement an AWS Lambda runtime in any programming language. A runtime is a program that runs a Lambda function's handler method when the function is invoked.",
+            "resources": [
+                {
+                    "name": "Custom AWS Lambda runtimes",
+                    "url": "https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html"
+                }
+            ]
+        },
+        {
+            "name": "AWS Glue - Python Shell Job",
+            "description": "You can use a Python shell job to run Python scripts as a shell in AWS Glue. With a Python shell job, you can run scripts that are compatible with Python 2.7 or Python 3.6",
+            "resources": [
+                {
+                    "name": "Adding Python Shell Jobs in AWS Glue",
+                    "url": "https://docs.aws.amazon.com/glue/latest/dg/add-job-python.html"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "resources": [
+                {
+                    "name": "",
+                    "url": ""
+                }
+            ]
+        }
+
+
+    ]
+}
