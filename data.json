@@ -66,6 +66,16 @@
             ]
         },
         {
+            "name": "AWS Glue - Spark Job",
+            "description": "",
+            "resources": [
+                {
+                    "name": "Defining Job Properties for Spark Jobs",
+                    "url": "https://docs.aws.amazon.com/glue/latest/dg/add-job.html#create-job"
+                }
+            ]
+        },
+        {
             "name": "",
             "description": "",
             "resources": [
