@@ -76,6 +76,76 @@
             ]
         },
         {
+            "name": "Cloud Foundry",
+            "description": "",
+            "resources": [
+                {
+                    "name": "Cloud Foundry",
+                    "url": "https://www.cloudfoundry.org/"
+                }
+            ]
+        },
+        {
+            "name": "AWS App Runner",
+            "description": "AWS App Runner is a fully managed service that makes it easy for you to deploy from source code or a container image directly to a scalable and secure web application.",
+            "resources": [
+                {
+                    "name": "AWS App Runner",
+                    "url": "https://docs.aws.amazon.com/apprunner/latest/dg/what-is-apprunner.html"
+                }
+            ]
+        },
+        {
+            "name": "AWS Batch",
+            "description": "AWS Batch helps you to run batch computing workloads on the AWS Cloud",
+            "resources": [
+                {
+                    "name": "AWS Batch",
+                    "url": "https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html"
+                }
+            ]
+        },
+        {
+            "name": "Amazon ECS on AWS Fargate",
+            "description": "run containers without having to manage servers or clusters of Amazon EC2 instances. With AWS Fargate, you no longer have to provision, configure, or scale clusters of virtual machines to run containers. This removes the need to choose server types, decide when to scale your clusters, or optimize cluster packing.",
+            "resources": [
+                {
+                    "name": "Amazon ECS on AWS Fargate",
+                    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html"
+                }
+            ]
+        },
+        {
+            "name": "Amazon ECS on EC2",
+            "description": "",
+            "resources": [
+                {
+                    "name": "Amazon ECS on EC2",
+                    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html"
+                }
+            ]
+        },
+        {
+            "name": "Amazon EKS",
+            "description": "Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that you can use to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane or nodes",
+            "resources": [
+                {
+                    "name": "Amazon EKS",
+                    "url": "https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "resources": [
+                {
+                    "name": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
             "name": "",
             "description": "",
             "resources": [
@@ -85,6 +155,8 @@
                 }
             ]
         }
+
+
 
 
     ]
