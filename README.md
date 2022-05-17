@@ -30,6 +30,7 @@ Storage | Amazon FSx for Windows File Server
 Storage | AWS Storage Gateway
 Storage | AWS Snow Family
 Storage | Amazon Elastic Block Store (EBS)
+Storage | AWS Backup
 
 Application Integration | AWS Step Functions
 Application Integration | Amazon EventBridge
